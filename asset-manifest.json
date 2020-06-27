@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/localweb/static/css/main.00725a43.chunk.css",
+    "main.js": "/localweb/static/js/main.e0722e66.chunk.js",
+    "main.js.map": "/localweb/static/js/main.e0722e66.chunk.js.map",
+    "runtime-main.js": "/localweb/static/js/runtime-main.4b90bc1a.js",
+    "runtime-main.js.map": "/localweb/static/js/runtime-main.4b90bc1a.js.map",
+    "static/js/2.025c35e0.chunk.js": "/localweb/static/js/2.025c35e0.chunk.js",
+    "static/js/2.025c35e0.chunk.js.map": "/localweb/static/js/2.025c35e0.chunk.js.map",
+    "index.html": "/localweb/index.html",
+    "precache-manifest.c89f72bf12dec3b91bcffdff3752b905.js": "/localweb/precache-manifest.c89f72bf12dec3b91bcffdff3752b905.js",
+    "service-worker.js": "/localweb/service-worker.js",
+    "static/css/main.00725a43.chunk.css.map": "/localweb/static/css/main.00725a43.chunk.css.map",
+    "static/js/2.025c35e0.chunk.js.LICENSE.txt": "/localweb/static/js/2.025c35e0.chunk.js.LICENSE.txt",
+    "static/media/menu.scss": "/localweb/static/media/bgmenu.37ccf83b.jpeg",
+    "static/media/defaultUser.jpg": "/localweb/static/media/defaultUser.bff3404e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b90bc1a.js",
+    "static/js/2.025c35e0.chunk.js",
+    "static/css/main.00725a43.chunk.css",
+    "static/js/main.e0722e66.chunk.js"
+  ]
+}
