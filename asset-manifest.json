@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sn-client/static/css/main.dbfbce85.chunk.css",
-    "main.js": "/sn-client/static/js/main.e0722e66.chunk.js",
-    "main.js.map": "/sn-client/static/js/main.e0722e66.chunk.js.map",
+    "main.js": "/sn-client/static/js/main.c8cd0a67.chunk.js",
+    "main.js.map": "/sn-client/static/js/main.c8cd0a67.chunk.js.map",
     "runtime-main.js": "/sn-client/static/js/runtime-main.a946b1c1.js",
     "runtime-main.js.map": "/sn-client/static/js/runtime-main.a946b1c1.js.map",
     "static/js/2.1884a721.chunk.js": "/sn-client/static/js/2.1884a721.chunk.js",
     "static/js/2.1884a721.chunk.js.map": "/sn-client/static/js/2.1884a721.chunk.js.map",
     "index.html": "/sn-client/index.html",
-    "precache-manifest.4dca4d721e01dda314e3d754c4c2c172.js": "/sn-client/precache-manifest.4dca4d721e01dda314e3d754c4c2c172.js",
+    "precache-manifest.c86d26d9637cc11e0f8f81779326fa8a.js": "/sn-client/precache-manifest.c86d26d9637cc11e0f8f81779326fa8a.js",
     "service-worker.js": "/sn-client/service-worker.js",
     "static/css/main.dbfbce85.chunk.css.map": "/sn-client/static/css/main.dbfbce85.chunk.css.map",
     "static/js/2.1884a721.chunk.js.LICENSE.txt": "/sn-client/static/js/2.1884a721.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a946b1c1.js",
     "static/js/2.1884a721.chunk.js",
     "static/css/main.dbfbce85.chunk.css",
-    "static/js/main.e0722e66.chunk.js"
+    "static/js/main.c8cd0a67.chunk.js"
   ]
 }
